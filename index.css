@@ -1,0 +1,206 @@
+section{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button.btn1{
+    background-color: rgb(40, 186, 40);
+}
+.navbar
+{
+   position: sticky;
+   top: 0px;
+   left: 0px;
+   z-index:100 ;
+   padding: 5px 5px;
+   box-shadow: 5px 5px 20px black;
+}
+ #n2
+{
+    color:rgb(40, 186, 40) ;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+section.s1
+{
+    background: url("img5.avif");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+h1.dp{
+   color: white;
+   font-size: 100px;
+   text-shadow: 0px 1px 0px grey;
+   text-shadow: 0px 2px 0px grey;
+   text-shadow: 0px 3px 0px grey;
+   text-shadow: 0px 4px 0px grey;
+   text-shadow: 0px 5px 0px grey;
+   text-shadow: 0px 6px 0px grey;
+}
+.inbox1{
+    text-align: center;
+}
+p.bm{
+    color: white;
+}
+section.s2
+{
+    background-color: black;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+p.kv{
+    color: azure;
+    font-size: xx-large;
+    
+}
+section.s3
+{
+    background-image: url("img4.avif");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   text-align: center;
+}
+h1.qm{
+    color: white;
+}
+p.ar{
+    color: white;
+}
+section.s4
+{
+    background-image: url("img6.avif");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   text-align: center;
+   color: white;
+}
+section.s5
+{
+    background-color: black;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+section.s6
+{
+    background-image: url("img7.avif");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   text-align: center;
+   color: white;
+}
+section.s7
+{
+    background-image: url("img9.avif");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   text-align: center;
+   color: white;
+}
+section.s8
+{
+    background-color: black;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   font-size: xx-large;
+}
+section.s9
+{
+    background-image: url("img10.avif");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   text-align: center;
+   color: white;
+}
+section.s10{
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.inbox2{
+   margin-top: 90px;
+    text-align: center;
+    
+}
+.inbox3{
+    
+    text-align: left;
+    
+}
+.inbox4{
+    
+    text-align: left;
+    
+}
+.inbox5{
+    
+    text-align: left;
+    
+}
+ul.ew{
+    text-align: left;
+    
+}
+section.s11
+{
+    height: 100px;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 30px;
+}
